@@ -56,3 +56,7 @@ The trained model successfully segments fire regions in thermal images and highl
 - Model compression and optimization.
 - Cloud dashboard for alerts and monitoring.
 - Support for drone-based thermal cameras.
+
+## Output 
+<img width="1243" height="677" alt="image" src="https://github.com/user-attachments/assets/27cdc587-59ad-4123-9c08-96bf5de5c22e" />
+
